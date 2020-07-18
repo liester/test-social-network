@@ -21,7 +21,7 @@
     "react-scripts": "3.0.1",
     "styled-components": "^4.2.0",
     "graphql": "^14.2.0",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.19"
   },
   "scripts": {
     "start": "react-scripts start",
